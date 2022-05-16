@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /teaching_opt/
-title: teaching_opt
+permalink: /teaching/
+title: teaching
 description: Materials for courses you taught. Replace this text with your description.
-nav: true
+nav: false
 nav_order: 2
 ---
 
