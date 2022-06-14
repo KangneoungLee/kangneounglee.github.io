@@ -23,7 +23,7 @@ I'm a Ph.D student in the Mechanical Engineering Department at Texas A&M Univers
 
 My research interests are
 - Vision-based path planning : grid/sample-based path planning
-- Ground classification using deep learning for semantic segmentation 
+- Semantic segmentation using deep learning for terrain treversability
 - Object detection : Deep learning, Classification with interpretable model
 - Task allocation for multi-agent system
 - SLAM and state estimation
