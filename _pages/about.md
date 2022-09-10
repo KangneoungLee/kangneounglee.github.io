@@ -22,9 +22,8 @@ Hello, I'm Kangneoung Lee.
 I'm a Ph.D Candidate in the Mechanical Engineering Department at Texas A&M University.
 
 My research interests are
-- Semantic segmentation for terrain treversability
-- Interpretability of machine learning technique
-- Object detection, classification : deep learning, interpretable model
+- Interpretability of machine learning
+- Generative Adversarial Network (GAN)
 - Task allocation/coordination for multi-robot system
 - SLAM and state estimation
 
