@@ -22,10 +22,11 @@ Hello, I'm Kangneoung Lee.
 I'm a Ph.D Candidate in the Mechanical Engineering Department at Texas A&M University.
 
 My research interests are
-- Interpretability of machine learning
-- Generative Adversarial Network (GAN)
-- Task allocation/coordination for multi-robot system
+- Robotics
+- Uncertainty estimation and interpretability of machine learning 
+- Path planning for single and multi-robot system
 - SLAM and state estimation
+- Generative Adversarial Network (GAN)
 
 I am advised by [Dr. Kiju Lee](https://engineering.tamu.edu/etid/profiles/lee-kiju.html).
 I'm currently a member of [Adaptive Robotics and Technology Lab](https://art.engr.tamu.edu/).
