@@ -26,7 +26,6 @@ My research interests are
 - Uncertainty estimation and interpretability of machine learning 
 - Path planning for single and multi-robot system
 - SLAM and state estimation
-- Generative Adversarial Network (GAN)
 
 I am advised by [Dr. Kiju Lee](https://engineering.tamu.edu/etid/profiles/lee-kiju.html).
 I'm currently a member of [Adaptive Robotics and Technology Lab](https://art.engr.tamu.edu/).
