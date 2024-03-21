@@ -19,7 +19,7 @@ sections: true
 ---
 
 Hello, I'm Kangneoung Lee.
-I'm a Ph.D Candidate in the Mechanical Engineering Department at Texas A&M University.
+I finishd my Ph.D degree in the Mechanical Engineering Department at Texas A&M University.
 
 My research interests are
 - Robotics
