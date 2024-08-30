@@ -19,7 +19,7 @@ sections: true
 ---
 
 Hello, I'm Kangneoung Lee.
-I am a senior robotics enginner at LG Electronics in Seoul.
+I am a senior robotics engineer at LG Electronics in Seoul.
 I finishd my Ph.D degree in the Mechanical Engineering Department at Texas A&M University.
 
 My research interests are
@@ -29,4 +29,3 @@ My research interests are
 - SLAM and state estimation
 
 I am advised by [Dr. Kiju Lee](https://engineering.tamu.edu/etid/profiles/lee-kiju.html).
-I'm currently a member of [Adaptive Robotics and Technology Lab](https://art.engr.tamu.edu/).
