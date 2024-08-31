@@ -8,7 +8,7 @@ profile:
   align: right
   image: knlee_image1.jpg
   address: >
-    <p>College Station, Texas 77840</p>
+    <p>Seocho-gu, Seoul, South Korea 06772</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,6 +19,7 @@ sections: true
 ---
 
 Hello, I'm Kangneoung Lee.
+I am a senior robotics enginner at LG Electronics in Seoul.
 I finishd my Ph.D degree in the Mechanical Engineering Department at Texas A&M University.
 
 My research interests are
